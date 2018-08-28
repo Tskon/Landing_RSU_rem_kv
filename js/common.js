@@ -453,19 +453,19 @@ $(document).ready(function () {
 // Yandex goals
 function setYandexGoals() {
   setGoal('#myModal', function () {
-    yaCounter46918845.reachGoal('Ring');
+    yaCounter50050540.reachGoal('Ring');
   });
   setGoal('#myModalOrder', function () {
-    yaCounter46918845.reachGoal('Order');
+    yaCounter50050540.reachGoal('Order');
   });
   setGoal('#myModalMaster', function () {
-    yaCounter46918845.reachGoal('Master');
+    yaCounter50050540.reachGoal('Master');
   });
   setGoal('#myModalCalc', function () {
-    yaCounter46918845.reachGoal('Calc');
+    yaCounter50050540.reachGoal('Calc');
   });
   setGoal('#myModalSmeth', function () {
-    yaCounter46918845.reachGoal('Smeth');
+    yaCounter50050540.reachGoal('Smeth');
   });
 
   function setGoal(selector, goalFunc) {
